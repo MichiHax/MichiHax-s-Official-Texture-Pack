@@ -23,6 +23,12 @@ Texture Loader (https://geode-sdk.org/mods/geode.texture-loader)
 
 And all of this includes a medium port, for the people that need it!
 
+# Installation guide
+- Download the "Texture Loader" mod from Geode
+- Go to your Geometry Dash 2.207 folder
+- Go to the folder called geode > config > geode.texture-loader > packs
+- Put the downloaded ZIP there
+
 <img width="1920" height="1080" alt="image1" src="https://github.com/user-attachments/assets/5673163d-ec21-402b-bad9-a62367463656" />
 <img width="1920" height="1080" alt="image2" src="https://github.com/user-attachments/assets/759695d4-b2a1-4e46-a0f5-7da43ad2e3fb" />
 <img width="1920" height="1080" alt="image3" src="https://github.com/user-attachments/assets/69e90822-f011-4b67-bad8-596c2ced14f8" />
