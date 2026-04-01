@@ -25,7 +25,7 @@ And all of this includes a medium port, for the people that need it!
 
 # Installation guide
 - Download the "Texture Loader" mod from Geode
-- Go to your Geometry Dash 2.207 folder
+- Go to your Geometry Dash folder
 - Go to the folder called geode > config > geode.texture-loader > packs
 - Put the downloaded ZIP there
 
