@@ -32,7 +32,7 @@ And all of this includes a medium port, for the people that need it!
 <img width="1920" height="1080" alt="image1" src="https://github.com/user-attachments/assets/5673163d-ec21-402b-bad9-a62367463656" />
 <img width="1920" height="1080" alt="image2" src="https://github.com/user-attachments/assets/759695d4-b2a1-4e46-a0f5-7da43ad2e3fb" />
 <img width="1920" height="1080" alt="image3" src="https://github.com/user-attachments/assets/69e90822-f011-4b67-bad8-596c2ced14f8" />
-(i actually havent beat those levels bloodbath and bloodlust, they are hacked sorry)
+(i actually havent beat those levels bloodbath cataclysm and bloodlust, they are hacked sorry)
 <img width="1920" height="1080" alt="image4" src="https://github.com/user-attachments/assets/fed9e5dc-1622-4dac-957c-85f212c4622d" />
 <img width="1920" height="1080" alt="image5" src="https://github.com/user-attachments/assets/be710472-572f-45a1-91a2-335a9c722060" />
 <img width="1920" height="1080" alt="image6" src="https://github.com/user-attachments/assets/6b4029ee-0bb9-479c-84b0-9e1176998f5c" />
